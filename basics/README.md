@@ -11,4 +11,7 @@ Scripte-4 ls -l = ca nou permet d'afficher les fichier de notre repertoir actuel
 
 Scripte-5 ls -la = alors comme la question d'apres ls avec -l affiche tous les fichier en detail et en ajoutant la -a ca affiche les fichier cacher
 
-Scripte-6 ls -ls --numeric-uid-gid = alors j'ai rien compris l'utilité mais il disent ca affiche les choses avec leurs id  
+Scripte-6 ls -ls --numeric-uid-gid = alors j'ai rien compris l'utilité mais il disent ca affiche les choses avec leurs id
+
+Scripte-7 mkdir = "Ennft la je sais bien mkdir mais j'ai appri la difference entre /tmp et ./tmp alors / ca veut dire le chemain absolue mais ./ ca veut dire le chemain relatif c'est adire quand on met ./ 
+notre point de départ est notre repertoire actuel de travail "  
