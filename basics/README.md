@@ -9,4 +9,6 @@ le ~ repr√sente le home de chaque user on va dire que c'est une variable globale
 
 Scripte-4 ls -l = ca nou permet d'afficher les fichier de notre repertoir actuel mais en long format grace  -l
 
-Scripte-5 ls -la = alors comme la question d'apres ls avec -l affiche tous les fichier en detail et en ajoutant la -a ca affiche les fichier cacher 
+Scripte-5 ls -la = alors comme la question d'apres ls avec -l affiche tous les fichier en detail et en ajoutant la -a ca affiche les fichier cacher
+
+Scripte-6 ls -ls --numeric-uid-gid = alors j'ai rien compris l'utilit√© mais il disent ca affiche les choses avec leurs id  
