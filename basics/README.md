@@ -16,4 +16,6 @@ Scripte-6 ls -ls --numeric-uid-gid = alors j'ai rien compris l'utilit√© mais il 
 Scripte-7 mkdir = "Ennft la je sais bien mkdir mais j'ai appri la difference entre /tmp et ./tmp alors / ca veut dire le chemain absolue mais ./ ca veut dire le chemain relatif c'est adire quand on met ./ 
 notre point de d√©part est notre repertoire actuel de travail 
 
-Scripte-8 mv = " on d√place un dossier ou un fichier grace a la commande mv"  
+Scripte-8 mv = " on d√place un dossier ou un fichier grace a la commande mv
+
+Scripte-9 rm= "Pour supprimer un fichier on fait rm tout court mais si on veut supprimer un dossier on fait rmdir et si le dossier et pein faut utiliser rm -r"  
