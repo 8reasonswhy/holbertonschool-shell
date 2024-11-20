@@ -30,4 +30,12 @@ Scripte file = " on utilise la commande file pour nous dire le type de fichier "
 Script 12  = " alors pour afficher les files avec les detail en utilise ls -l pour afficher les fichier cacher on a besoin de -a donc pour afficher les fichier cacher en long format on utilise ls -la 
 alors ce que j'ai appris c'est que . reffer to the wd alors que .. reffer to the parrent et on peut concatenez en une seul ligne tous ce qu'on veut affichier ls -la . .. /boot "
 
-Scripte-13 = " Pour créer un link symbolic on utilise la commande ln -s  //// -s ce qui montre un link SYMBOLIC au contraine du hard link "  
+Scripte-13 = " Pour créer un link symbolic on utilise la commande ln -s  //// -s ce qui montre un link SYMBOLIC au contraine du hard link "
+
+Scripte-14 = " find . la commande fait la recherche . c'est a dire dans le rep courant 
+		-maxdepth 1 c'est a dire ne cherche pas des ficher dans les dossier contenue dans le rep courant 
+		-exec c'est a dire le code qui doit etre executer apres la que la recherche a été faites 
+		test pour faire le test 
+		-nt = newer than 
+		-o pour dire tester la second test si le premir a echouer
+		et on separe toucjours les comadne par un \;  
