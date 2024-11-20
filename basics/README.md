@@ -23,4 +23,6 @@ Scripte-9 rm= "Pour supprimer un fichier on fait rm tout court mais si on veut s
 Scripte 10 rm -r = "Alors la  pour supprimer un fichier on utilise rmdir sauf que si le fichier et plein ca refuse de le supprimer c'est pour cela il est préferable d'utiliser rm - r 
 et si on veut forcer un peu plus on utilise rm -rf -f pour forcer les trucs mais faut faire attention car ca commande et irreverssible et demande pas de confirmation quand y'a le -f"
 
-Scripte11 cd .. = "Pour revenir au arrier genre a la directrory just precedente en execute la commande cd .."  
+Scripte11 cd .. = "Pour revenir au arrier genre a la directrory just precedente en execute la commande cd .."
+
+Scripte file = " on utilise la commande file pour nous dire le type de fichier "  
