@@ -25,4 +25,7 @@ et si on veut forcer un peu plus on utilise rm -rf -f pour forcer les trucs mais
 
 Scripte11 cd .. = "Pour revenir au arrier genre a la directrory just precedente en execute la commande cd .."
 
-Scripte file = " on utilise la commande file pour nous dire le type de fichier "  
+Scripte file = " on utilise la commande file pour nous dire le type de fichier "
+
+Script 12  = " alors pour afficher les files avec les detail en utilise ls -l pour afficher les fichier cacher on a besoin de -a donc pour afficher les fichier cacher en long format on utilise ls -la 
+alors ce que j'ai appris c'est que . reffer to the wd alors que .. reffer to the parrent et on peut concatenez en une seul ligne tous ce qu'on veut affichier ls -la . .. /boot "  
