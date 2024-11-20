@@ -28,4 +28,6 @@ Scripte11 cd .. = "Pour revenir au arrier genre a la directrory just precedente 
 Scripte file = " on utilise la commande file pour nous dire le type de fichier "
 
 Script 12  = " alors pour afficher les files avec les detail en utilise ls -l pour afficher les fichier cacher on a besoin de -a donc pour afficher les fichier cacher en long format on utilise ls -la 
-alors ce que j'ai appris c'est que . reffer to the wd alors que .. reffer to the parrent et on peut concatenez en une seul ligne tous ce qu'on veut affichier ls -la . .. /boot "  
+alors ce que j'ai appris c'est que . reffer to the wd alors que .. reffer to the parrent et on peut concatenez en une seul ligne tous ce qu'on veut affichier ls -la . .. /boot "
+
+Scripte-13 = " Pour créer un link symbolic on utilise la commande ln -s  //// -s ce qui montre un link SYMBOLIC au contraine du hard link "  
