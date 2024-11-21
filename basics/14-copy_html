@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdepth 1 -name "*.html" -exec test ! -e "../$(basename {})" -o {} -nt "../{}" \+ -exec cp {} ../\+
+find . -maxdepth 1 -name "*.html" -exec test ! -e "../{}" -exec cp {} ../ \+ -exec test {} -nt "../{}" -exec cp {} ../ \+
